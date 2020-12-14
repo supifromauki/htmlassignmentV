@@ -1,0 +1,688 @@
+.placeholder { 
+    color: red;
+    opacity: 1;
+  }
+  .img
+{
+    width: 80%;
+    
+    
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text
+{   
+   
+    color: #1865f2 !important;
+    
+  
+}
+.head
+{
+   margin-top: 100px;
+
+}
+@media screen and (max-width: 566px)
+{}
+.text-sub
+{
+  font-size: 17px;
+ font-size: 15px;
+ margin-bottom: 5px;
+ 
+}
+.text-head
+{   
+    vertical-align: text-bottom;
+    font-family: 'Source Serif Pro', 'Noto Serif';
+    font-size: 40px !important;
+    font-weight: 600 !important;
+    line-height: 45px !important;
+    display: inline;
+    font-size: 100%;
+   
+    
+   
+}
+.button
+{
+    display: inline-block;
+    -webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    position: relative !important;
+    display: -webkit-inline-box !important;
+    display: -moz-inline-box !important;
+    display: -ms-inline-flexbox !important;
+    display: -webkit-inline-flex !important;
+    display: inline-flex !important;
+    -webkit-align-items: center !important;
+    align-items: center !important;
+    -webkit-justify-content: center !important;
+    justify-content: center !important;
+    height: 40px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    outline: none !important;
+    text-decoration: none !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -ms-touch-action: manipulation !important;
+    touch-action: manipulation !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    background: #1865f2 !important;
+    color: #ffffff !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+    margin-top:20px ;
+}
+.button-sec
+{
+    margin-top: 10px;
+}
+
+.container 
+{
+    
+    margin-top: 20px;
+}
+   
+/* @media(min-width: 992px){
+    .homepage-container{
+        max-width: 940px;
+    }
+}
+
+.sample-div, .row-div, .col-divs{
+    border: 2px solid red;
+    padding: 5px;
+}
+
+.sample-div{
+    margin-bottom: 200px
+}
+
+.row-div{
+    border-color: blue;
+    margin-left: 0px;
+    margin-right: 0px;
+} */
+
+.col-divs{
+    border-color: green;
+    height: 200px;
+}
+._1whfp2yNaN {
+    border: 0px !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    background-color: transparent !important;
+    position: absolute !important;
+    left: 50% !important;
+    background-image: url(https://cdn.kastatic.org/images/marketing-content/button-background-orange.png) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    height: 75px !important;
+    width: 91px !important;
+    transform: translateX(-50%) !important;
+    cursor: pointer !important;
+}
+.second-section
+{
+ background-color:#F7F5F4;
+ margin-top: 5px; 
+ 
+   
+
+}
+.h2-style {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 30px !important;
+    font-weight: 600 !important;
+    line-height: 100px !important;
+    letter-spacing: -0.1px !important;
+    margin: -40px auto 0 !important;
+    padding: 45px 0 85px !important;
+    text-align: center !important;
+    max-width: 800px !important;
+}
+.h3-style
+{
+        -webkit-font-smoothing: antialiased !important;
+        -moz-osx-font-smoothing: grayscale !important;
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+        color: #21242c !important;
+        display: block !important;
+        font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+        font-size: 25px !important;
+        font-weight: 400 !important;
+        line-height: 30px !important;
+        letter-spacing: -0.1px !important;
+        margin: 0 0 20px 0 !important;
+    
+}
+.img-btn
+{
+    min-width: 10vh;
+    display: flex;
+    cursor: pointer;
+    margin:0 auto;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    width: 60px;
+    height:60px ;
+}
+
+.h6-sub
+{ 
+    margin-bottom: 20px;
+    webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 18px !important;
+    letter-spacing: 0.1em !important;
+    color: rgba(33, 36, 44, 0.64) !important;
+    margin: 10 0 107px 0 !important;  
+}
+
+@media screen and (min-width: 768px){
+.font-sub {
+    font-size: 44px !important;
+    line-height: 48px !important;
+}
+}
+.font-sub
+{
+    
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 40px !important;
+    
+    line-height: 35px !important;
+    letter-spacing: -0.9px !important;
+    font-weight: 600;
+    
+}
+
+.join-academy-section{
+    padding: 0px 15px;
+}
+
+@media(min-width: 768px){
+    .font-sub{
+        text-indent: -0.60em;
+    }
+}
+
+.p-why-sec
+{
+    font-size: 30px;
+    line-height: 35px;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif;
+    letter-spacing: -0.1px 
+}
+
+@media screen and (max-width: 567px){
+    .smallpara {
+        font-size: 14px ;
+        line-height: 22px ;
+    }
+    
+
+}
+.smallpara {
+    font-size: 13px ;
+    line-height: 22px ;
+    letter-spacing: -0.1px
+}
+
+.imgfor3sec2
+{
+    padding-bottom: 200px;
+}
+
+
+.h6-small
+{   
+    margin-top: 100px
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 12px;
+    opacity: .4;
+    letter-spacing: -0.1px !important;
+    margin-bottom:30px;
+}
+.h3-sub
+{
+    font-size: 5px;
+    color: #21242c !important;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 17px !important;
+    line-height: 30px;
+    opacity: .9;
+    margin-right:40px;
+    margin-bottom:15px;
+    
+}
+.h6-175
+{
+    margin-top: 10px;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 12px;
+    opacity: .4;
+    letter-spacing: -0.1px !important;
+      margin-bottom:20px;   
+}
+.button-179
+{   
+    webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    position: relative !important;
+    display: -webkit-inline-box !important;
+    display: -moz-inline-box !important;
+    display: -ms-inline-flexbox !important;
+    display: -webkit-inline-flex !important;
+    display: inline-flex !important;
+    -webkit-align-items: center !important;
+    align-items: center !important;
+    -webkit-justify-content: center !important;
+    justify-content: center !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    outline: none !important;
+    text-decoration: none !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -ms-touch-action: manipulation !important;
+    touch-action: manipulation !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    background: #1865f2 !important;
+    color: #ffffff !important;
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+    height: 60px !important;
+    
+}
+.img-159
+{
+    width: 100%;
+    margin-bottom: 100px;
+}
+.h1-193
+{
+    webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    margin-top: 0px !important;
+    margin-bottom: 46px !important;
+    padding-right: 10px;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 55px !important;
+    font-weight: 600 !important;
+    line-height: 50px !important;
+    letter-spacing: -0.1px !important;
+}
+.h3-196
+{
+    font-size: 20px ;
+    line-height: 22px;   
+ margin-bottom: 46px;
+}
+.fourth-section
+{
+ background-color:#F7F5F4;
+ width: 100%; 
+ margin-bottom: 20px;
+
+
+}
+.image{
+    margin-right:10px ;
+   margin-top: 90px;
+   margin-left: 20px;
+   
+   
+}
+.h2-215
+{    
+
+font-size: 30px;
+height: 43px;
+margin-top: 150px;
+
+padding-left: 100px;
+margin-bottom: 150px;
+}
+
+  .button-255{
+        webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    position: relative !important;
+    display: -webkit-inline-box !important;
+    display: -moz-inline-box !important;
+    display: -ms-inline-flexbox !important;
+    display: -webkit-inline-flex !important;
+    display: inline-flex !important;
+    -webkit-align-items: center !important;
+    align-items: center !important;
+    -webkit-justify-content: center !important;
+    justify-content: center !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    outline: none !important;
+    text-decoration: none !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -ms-touch-action: manipulation !important;
+    touch-action: manipulation !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    background: #1865f2 !important;
+    color: #ffffff !important;
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+    height: 60px !important;
+    width:200px;
+    background-image: url("bg.PNG");
+      
+       
+    }
+    
+.section-226
+{
+
+    background-color:#F7F5F4;
+    width: 100%;   
+    margin-top: 100px; 
+}
+.h1-228
+{
+    margin-top: 100px;
+    font-size: 20px;
+}
+.img-229
+{
+   
+    margin-bottom: 50px;
+
+}
+.img-231
+{
+    margin-top:20px ;
+}
+.footer{
+    background-color: blue;
+}
+.footer-para{
+    color: rgb(160, 155, 219);
+    max-width: 400px;
+    font-size: 21px;
+    float: left;
+    margin-left: 90px;
+    z-index: 2;
+}
+.footer-ul-1{
+  color: white;
+  padding-left: 100px;
+  float: left;
+  z-index: 1;
+  
+  
+  
+  
+  }
+.footer-ul-1 ul {
+  margin-left: 400px;
+  list-style: none;
+  max-width: 200px;
+  padding-top : 200px;
+  
+}
+.footer-ul-1 ul li{
+  color: white;
+  font-size: 13px;
+}
+
+
+.footer-ul-2{
+  color: white;
+  
+  }
+.footer-ul-2 ul {
+  margin-left: 800px;
+  list-style: none;
+  max-width: 200px;
+  padding-bottom: 500px;
+  
+  
+}
+.footer-ul-2 ul li{
+  color: white;
+  font-size: 13px;
+  
+}
+.c-206
+{
+    
+    background-image: url("/asset/bg.PNG");
+    background-position: top;
+    padding-bottom: 100px;
+    
+}
+
+.quote{
+    background-color: #F7F5F4;
+}
+.quote-para{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.anjali{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 500px;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgage{
+    margin-right: 100px;
+    float: right;
+    
+}
+.sec-240
+{
+    margin-bottom: 0%;
+    background-color: red;
+    background-color: #F7F5F4;
+    
+    
+}
+.h1-228
+{
+    font-size: 30px;
+    margin-bottom: 40px;
+
+}
+.img-237
+{
+   
+    width: 150px !important;
+    height: 30.2px !important;
+    margin-bottom: 50px;  
+ }
+ .h2-237
+ {
+    
+     margin-bottom: 80px;
+ }
+ .img-260
+ {
+    width: 100px !important;
+    height: 22.1px !important;
+    margin-bottom:100px;
+    
+    
+ }
+ .vertical-seccode
+ {
+     display: flex;
+     justify-content: center;
+     
+     align-items: center;
+
+ }
+ .hr-sec{
+     color: red;
+
+ }
+
+ body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    padding-left: 30px;
+    padding-right: 26px;
+    margin-left: 50px;
+    height: 20px;
+    width: 200px;
+}
+li{
+    color:white;
+}
+.footerfonts{
+    font-size: 12px;
+
+}
+.footer_line{
+    margin-left: 15em;
+}
+.fontsection1{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 53px;
+}
+.fontsection2{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 44px;
+}
+.fontsection3{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 53px;
+}
+._cildren-171{
+    padding-top: 5em;
+    padding-left: 5em;
+}
+h2,h1,h3{
+   font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+}
+.line-60{
+  margin-top: 0;
+}
+.signup-43{
+    margin-right: 97px;
+}
+._eib2kdk {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 23px !important;
+    font-weight: 400 !important;
+    line-height: 30px !important;
+    letter-spacing: -0.1px !important;
+    margin: 0 0 20px 0 !important;
+}
+._1jhgniwy {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 26px !important;
+    letter-spacing: -0.1px !important;
+}
+.logo1{
+    opacity: 0;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
