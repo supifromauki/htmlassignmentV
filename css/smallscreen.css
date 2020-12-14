@@ -1,3 +1,13 @@
+
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+.mainLoginInput{
+    height: 40px;
+    padding: 0px;
+    font-size: 30px;
+    margin: 5px 0;
+  }
+
+
 header{
     box-sizing: border-box !important;
     height: 62px !important;
@@ -46,14 +56,6 @@ body{
 
 
 
-
-
-@media only screen and (max-width: 600px) {
-    .h1-sec1{
-        font-size:20px
-    }
-}
-
 .h1-sec1
 {
     font-size: 50px;
@@ -62,8 +64,13 @@ body{
     line-height: 55px;
     letter-spacing: 1.5px;
     
-
+    
 }
+@media only screen and (max-width: 376px) {
+    .h1-sec1 {
+      font-size: 30px;
+    }
+  }
 .p-sec1
 {
     margin-top: 20px;
@@ -99,6 +106,29 @@ body{
     width: 60px;
     height:60px ;
 }
+
+.img-276
+{
+    width: 140px;
+    height: 140px;
+}
+.vertical12
+{
+    display:flex;
+    
+    width: 100%;
+    justify-content: flex-end;
+
+
+
+
+}
+
+
+
+
+
+
 
 .line-129
 {
@@ -517,3 +547,40 @@ h2,h1,h3{
 ._search-button{
  border: none;
 }
+.p-344
+{
+    font-family: "Source Serif Pro", "Noto Serif", serif    ;
+    font-size: 36px;
+    font-weight: 600;
+    line-height:48px ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.img-237
+{
+   
+    width: 150px !important;
+    height: 30.2px !important;
+    margin-bottom: 50px;  
+ }
+
+ .footerfonts{
+    font-size: 12px;
+
+}
+.footer_line{
+    margin-left: 15em;
+}
+.fontsection1{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 53px;
+}
+.fontsection2{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 44px;
+}
+.fontsection3{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 53px;
